@@ -1,0 +1,12 @@
+name: Covid19_Tracking
+title: Covid19_Tracking
+username:
+account: rahul-nayak
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2407568
+bundleId: 3232441
+url: https://rahul-nayak.shinyapps.io/Covid19_Tracking/
+when: 1591360658.15795
+asMultiple: FALSE
+asStatic: FALSE
